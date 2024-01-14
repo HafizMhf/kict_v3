@@ -1,7 +1,7 @@
 <div class="footer_section layout_padding">
     <div class="container">
        <div class="location_main">
-          <div class="call_text"><a href="#">Call +01 1234567890</a></div>
+          <div class="call_text"><a href="#">Call +6011434433</a></div>
           <div class="call_text"><a href="#">F&S@gmail.com</a></div>
        </div>
        <div class="social_icon">
@@ -18,7 +18,7 @@
  <!-- copyright section start -->
  <div class="copyright_section">
     <div class="container">
-       <p class="copyright_text">2020 All Rights Reserved. Design by <a href="https://html.design">Web4Life</a></p>
+       <p class="copyright_text">2024 All Rights Reserved. Design by <a href="https://html.design">Web4Life</a></p>
     </div>
  </div>
  <!-- copyright section end -->
