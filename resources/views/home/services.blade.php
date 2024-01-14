@@ -1,7 +1,7 @@
 <div class="services_section layout_padding">
     <div class="container">
        <h1 class="services_taital">Feedback and Suggestions Post </h1>
-       <p class="services_text">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration</p>
+       <p class="services_text">Welcome to our feedback and suggestions platform. We value your input and look forward to hearing your thoughts on how we can improve our services</p>
        <div class="services_section_2">
           <div class="row">
 
