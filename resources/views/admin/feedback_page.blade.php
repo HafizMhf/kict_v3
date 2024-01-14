@@ -75,18 +75,11 @@
                     <input type="file" name="image">
                 </div>
 
-
-
                 <div class="div_center">
                     <input type="submit" class="btn btn-primary">
                 </div>
 
-
-
-
-
             </form>
-
 
         </div>
 
