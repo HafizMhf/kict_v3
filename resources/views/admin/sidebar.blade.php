@@ -23,6 +23,6 @@
                 <a href="forms.html"> <i class="icon-padnote"></i>Forms</a>
             </li>
 
-            <li><a href="{{ url('login') }}"> <i class="icon-logout"></i>Login page </a></li>
+            <li><a href="{{ url('login') }}"> <i class="icon-logout"></i>Logout page </a></li>
   
   </nav>
