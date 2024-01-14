@@ -27,12 +27,11 @@
        </nav>
     </div>
     <div class="container-fluid">
-       <div class="logo"><a href="index.html"><img src="images/logo.png"></a></div>
+       <div class="logo"><a href="index.html"><img src=""></a></div>
        <div class="menu_main">
           <ul>
              <li class="active"><a href="index.html">Home</a></li>
              <li><a href="about.html">About</a></li>
-             <li><a href="blog.html">Services</a></li>
 
              @if (Route::has('login'))
 

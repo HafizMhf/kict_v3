@@ -67,12 +67,7 @@
                 <input type="submit" value="Add Feedback" class="btn btn-dark">
             </div>
         </form>
-
-
-
       </div>
-
-
 
       <!-- footer section start -->
       @include('home.footer')
