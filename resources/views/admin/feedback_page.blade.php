@@ -16,14 +16,39 @@
             }
 
             .div_center{
-                text-align: center;
+                text-align: left;
                 padding: 30px;
             }
 
             label{
-                display: inline-block;
-                width: 200px;
+                display: block;
+                margin-bottom: 8px;
+                color: white; 
+                font-size: 16px;
+                font-weight: bold;
+            }
 
+            input, textarea {
+                width: 100%;
+                padding: 10px;
+                margin-bottom: 16px;
+                border: 1px solid #ccc; 
+                border-radius: 4px;
+                box-sizing: border-box;
+            }
+
+            button {
+                width: 100%;
+                padding: 12px;
+                background-color: #007bff; 
+                color: #fff; 
+                border: none;
+                border-radius: 4px;
+                cursor: pointer;
+            }
+
+            button:hover {
+                background-color: #0056b3; 
             }
 
     </style>
