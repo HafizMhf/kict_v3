@@ -17,8 +17,8 @@
           </div>
           <div class="carousel-item">
              <div class="container">
-                <h1 class="banner_taital">Improvement</h1>
-                <p class="banner_text">Help Us Improve</p>
+                <h1 class="banner_taital">Satisfaction</h1>
+                <p class="banner_text">On a scale of 1 to 5 (1 being the lowest and 5 being the highest), how satisfied are you with our Complaint Management System overall?</p>
                 <div class="read_bt"><a href="#">Submit Improvement</a></div>
              </div>
           </div>
