@@ -27,7 +27,7 @@
 
                     <x-slot name="content">
                         <x-dropdown-link :href="route('profile.edit')">
-                            <p style="color:black!important;"> {{ __('Profile') }} </p>
+                            <p style="color:rgb(236, 8, 206)!important;"> {{ __('Profile') }} </p>
                         </x-dropdown-link>
 
                         <!-- Authentication -->
@@ -37,7 +37,7 @@
                             <x-dropdown-link :href="route('logout')"
                                     onclick="event.preventDefault();
                                                 this.closest('form').submit();">
-                                <p style="color:black!important;">{{ __('Log Out') }}</p>
+                                <p style="color:rgb(236, 8, 206)!important;">{{ __('Log Out') }}</p>
                             </x-dropdown-link>
                         </form>
                     </x-slot>
@@ -73,7 +73,7 @@
 
             <div class="mt-3 space-y-1">
                 <x-responsive-nav-link :href="route('profile.edit')">
-                    <p style="color:black!important;">{{ __('Profile') }} </p>
+                    <p style="color:skyblue!important;">{{ __('Profile') }} </p>
                 </x-responsive-nav-link>
 
                 <!-- Authentication -->
@@ -83,7 +83,7 @@
                     <x-responsive-nav-link :href="route('logout')"
                             onclick="event.preventDefault();
                                         this.closest('form').submit();">
-                        <p style="color:black!important;">{{ __('Log Out') }} </p>
+                        <p style="color:skyblue!important;">{{ __('Log Out') }} </p>
                     </x-responsive-nav-link>
                 </form>
             </div>

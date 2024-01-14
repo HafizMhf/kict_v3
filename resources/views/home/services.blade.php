@@ -15,7 +15,7 @@
                 </div>
 
 
-                <h4>{{ $post->title }}</h4>
+                <h3>{{ $post->title }}</h3>
 
                 <p>Posted by: <b>{{ $post-> name }}</b>  </p>
                 <div class="btn_main"><a href="{{ url('post_details',$post->id) }}">Read More</a></div>
