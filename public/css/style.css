@@ -432,7 +432,8 @@ button {
 }
 
 .services_img {
-    width: 100%;
+    width: 309px;
+    height: 353px;
     float: left;
     text-align: center;
 }
@@ -531,8 +532,9 @@ button {
 }
 
 .about_img {
-    width: 100%;
+    width: 60%;
     float: left;
+    height: auto;
 }
 
 
